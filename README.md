@@ -27,7 +27,7 @@ Hi, I'm [Benny](https://twitter.com/BennyYen2), a automation test engineer in TW
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/denojs/denojs-original.svg" title="Deno" alt="Deno" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/cypress-io/cypress/blob/develop/assets/cypress-logo-dark.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/cypress-io/cypress/blob/develop/assets/cypress-logo-dark.png" title="Cypress" alt="Cypress" width="80" height="40"/>&nbsp;
 </div>
 
 ---
