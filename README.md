@@ -1,10 +1,12 @@
-# Hi there 👋
+<p align="center">
+  <img src="https://media3.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width=""/>
+</p>
 
 ---
 
 ### :technologist: About Me
 
-Hi, I'm [Benny](https://twitter.com/BennyYen2), a automation test engineer in TW.
+Hi, I'm [Benny](https://twitter.com/BennyYen2), a automation test engineer in TW. 
 
 <!-- - 🔭 I’m currently working on [My Blog](https://www.benny-yen.com/) -->
 - 🌱 I’m currently learning `Typescript` / `React` / `Cypress` / `Deno🦕`
@@ -24,6 +26,8 @@ Hi, I'm [Benny](https://twitter.com/BennyYen2), a automation test engineer in TW
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/denojs/denojs-original.svg" title="Deno" alt="Deno" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/cypress-io/cypress/blob/develop/assets/cypress-logo-dark.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
 </div>
 
 ---
