@@ -39,4 +39,7 @@ Hi, I'm [Benny](https://twitter.com/BennyYen2), a automation test engineer in TW
 ### :writing_hand: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cypress - Intercept GraphQL Request](https://www.benny-yen.com/cypress-intercept-graphql)
+- [Cypress - 從類別中動態載入 plugin](https://www.benny-yen.com/cypress-dynamic-import-plugin-class)
+- [Cypress - 動態生成測試項目](https://www.benny-yen.com/cypress-generate-dynamic-test)
 <!-- BLOG-POST-LIST:END -->
