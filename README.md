@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=benny123tw&label=Profile%20views&color=0e75b6&style=flat-square" alt="benny123tw" /> </p>
 
 ### :technologist: About Me
 
