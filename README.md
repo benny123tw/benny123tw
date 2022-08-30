@@ -11,11 +11,11 @@
 Hi, I'm [Benny](https://twitter.com/BennyYen2), a automation test engineer in TW. 
 
 <!-- - 🔭 I’m currently working on [My Blog](https://www.benny-yen.com/) -->
-- 🌱 I’m currently learning `Typescript` / `React` / `Cypress` / `Deno🦕`
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
+- 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) / ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) / ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) / ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
 - 💬 Ask me about anything [here](https://github.com/benny123tw/benny123tw/issues)
 - 📫 How to reach me: benny123tw@gmail.com
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
